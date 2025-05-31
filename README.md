@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toasties-with-toast
+- 👋 Hi, I’m @i-love-winter
 - 👀 I’m interested in coding (duh) and ~ricing my Arch Linux~ working on Solstice OS
 - 🌱 I’m currently learning random small pieces about C, the god of all programming languages, and bashing my head against the keyboard when my code doesn't work
 - 💞️ I’m looking to collaborate on making SolsticeOS, my custom OS I've been making for the past while
