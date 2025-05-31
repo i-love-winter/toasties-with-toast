@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toasties-with-toast
-- 👀 I’m interested in coding and ricing my Arch Linux 
+- 👀 I’m interested in coding (duh) and ~ricing my Arch Linux~ Working on Solstice OS
 - 🌱 I’m currently learning random skills I don't really need on Arch Linux
-- 💞️ I’m looking to collaborate on nothing, sorry I don't do collabs
+- 💞️ I’m looking to collaborate on making SolsticeOS, my custom OS I've been making for the past while
 - 📫 How to reach me: imatoaster65@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use arch btw
